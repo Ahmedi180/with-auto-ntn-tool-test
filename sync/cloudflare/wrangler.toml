@@ -1,1 +1,7 @@
+name = "shipment-tools-sync"
+main = "worker.js"
+compatibility_date = "2025-03-12"
 
+[[kv_namespaces]]
+binding = "NTN_DB"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
